@@ -23,7 +23,7 @@ The goal is to demonstrate how transaction data can be analyzed and used to pred
 
 The dataset used for this project can be downloaded from the following link:
 
-👉 [Download Online Fraud Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1) 
+👉 [Download Online Fraud Dataset]([https://drive.google.com/file/d/1w-kerxy-ACB_X7wcOq_JCAahdbXHzzGK/view?usp=sharing]) 
 
 > Alternatively, upload the dataset `onlinefraud.csv` into your working directory before running the code.
 
